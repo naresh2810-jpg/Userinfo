@@ -8,9 +8,5 @@ user info avilable can you check this.
 function apply(){}
 
 
-<<<<<<< Updated upstream
 function test{}
-=======
-
->>>>>>> Stashed changes
 
